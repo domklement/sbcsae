@@ -1,0 +1,1 @@
+import"./hoisted.BB6uRyKX.js";document.getElementById("show-table-description").addEventListener("click",function(){const e=document.getElementById("show-table-description");e.innerText==="Show Table Description"?e.innerText="Hide Table Description":e.innerText="Show Table Description"});
